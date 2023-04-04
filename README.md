@@ -23,6 +23,7 @@ Here is a table that tracks my progress on solving the easy category problems on
 | 1         | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/1.two-sum.js) | Easy | ✅ |
 | 9         | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/9.palindrome-number.js) | Easy | ✅ |
 | 13         | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/13.roman-to-integer.js) | Easy | ✅ |
+| 14         | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/14.longest-common-prefix) | Easy | ✅ |
 
 ## Contributing
 
