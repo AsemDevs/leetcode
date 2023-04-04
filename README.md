@@ -27,3 +27,7 @@ Here is a table that tracks my progress on solving the easy category problems on
 ## Contributing
 
 While this repository primarily serves as a personal record of my progress, contributions in the form of suggestions, improvements, or additional solutions are always welcome. Feel free to submit a pull request or create an issue to discuss any changes.
+
+## Social Links
+
+- [linkedin](https://www.linkedin.com/in/asemhamdi/)
