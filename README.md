@@ -24,7 +24,8 @@ Here is a table that tracks my progress on solving the easy category problems on
 | 9         | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/9.palindrome-number.js) | Easy | ✅ |
 | 13         | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/13.roman-to-integer.js) | Easy | ✅ |
 | 14         | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/14.longest-common-prefix.js) | Easy | ✅ |
-| 20         | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/20.valid-parentheses.js) | Easy | |
+| 20         | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/20.valid-parentheses.js) | Easy | ✅ |
+| 21         | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/AsemDevs/leetcode/blob/master/Easy/21.merge-two-sorted-lists.js) | Easy | ✅ |
 
 ## Contributing
 
